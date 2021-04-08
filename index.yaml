@@ -3,7 +3,7 @@ entries:
   agentmap:
   - apiVersion: v2
     appVersion: 0.1.0-dev
-    created: "2021-04-08T15:15:22.0378318+08:00"
+    created: "2021-04-08T08:16:26.672229345Z"
     dependencies:
     - name: dus
       repository: https://atomanv.github.io/brixcharts
@@ -20,4 +20,4 @@ entries:
     urls:
     - https://jerome-valeska.github.io/agentmap/agentmap-0.1.0-dev.tgz
     version: 0.1.0-dev
-generated: "2021-04-08T15:15:22.032864+08:00"
+generated: "2021-04-08T08:16:26.660779296Z"
