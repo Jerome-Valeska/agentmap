@@ -3,7 +3,7 @@ entries:
   agentmap:
   - apiVersion: v2
     appVersion: 0.1.0-dev
-    created: "2021-04-07T18:21:52.2612085+08:00"
+    created: "2021-04-08T15:15:22.0378318+08:00"
     dependencies:
     - name: dus
       repository: https://atomanv.github.io/brixcharts
@@ -15,9 +15,9 @@ entries:
       repository: https://atomanv.github.io/brixcharts
       version: 0.1.0-dev
     description: A Helm chart for agentmap
-    digest: 431ae37bb7270495dea64e8250f56ce02d22b4b222658389b66f95b42a3895b0
+    digest: d212155019ba75b28add9e1c4c82b58d7f47292a2c54e1d8c60b8235fe9968e8
     name: agentmap
     urls:
     - https://jerome-valeska.github.io/agentmap/agentmap-0.1.0-dev.tgz
     version: 0.1.0-dev
-generated: "2021-04-07T18:21:52.254205+08:00"
+generated: "2021-04-08T15:15:22.032864+08:00"
